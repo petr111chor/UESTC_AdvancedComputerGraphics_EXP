@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\programing\OpenGL\exp1\exp1\main.cpp(23,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(24,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(25,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(29,35): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(30,35): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(31,35): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(125,35): warning C4244: “=”: 从“double”转换到“GLuint”，可能丢失数据
+D:\programing\OpenGL\exp1\exp1\main.cpp(126,37): warning C4244: “=”: 从“double”转换到“GLuint”，可能丢失数据
+D:\programing\OpenGL\exp1\exp1\main.cpp(140,28): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(140,23): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(140,18): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(343,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\programing\OpenGL\exp1\exp1\main.cpp(363,32): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\programing\OpenGL\exp1\exp1\main.cpp(377,16): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(385,77): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\programing\OpenGL\exp1\exp1\main.cpp(385,53): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\programing\OpenGL\exp1\exp1\main.cpp(385,29): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  exp1.vcxproj -> D:\programing\OpenGL\exp1\x64\Debug\exp1.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

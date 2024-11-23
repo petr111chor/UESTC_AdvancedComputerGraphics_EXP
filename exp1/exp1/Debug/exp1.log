@@ -1,0 +1,138 @@
+﻿  main.cpp
+D:\programing\OpenGL\exp1\exp1\main.cpp(22,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(23,9): error C2440: “初始化”: 无法从“const char [24]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(23,9):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(23,36): error C2440: “初始化”: 无法从“const char [5]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(23,36):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(24,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(25,5): error C2440: “初始化”: 无法从“const char [31]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(25,5):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(25,39): error C2440: “初始化”: 无法从“const char [5]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(25,39):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(26,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(27,5): error C2440: “初始化”: 无法从“const char [26]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(27,5):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(27,34): error C2440: “初始化”: 无法从“const char [5]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(27,34):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(70,5): error C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\programing\OpenGL\exp1\exp1\main.cpp(121,35): warning C4244: “=”: 从“double”转换到“GLuint”，可能丢失数据
+D:\programing\OpenGL\exp1\exp1\main.cpp(122,37): warning C4244: “=”: 从“double”转换到“GLuint”，可能丢失数据
+D:\programing\OpenGL\exp1\exp1\main.cpp(137,28): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(137,23): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(137,18): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\programing\OpenGL\exp1\exp1\main.cpp(140,5): error C2664: “void setfont(char *,int)”: 无法将参数 1 从“const char [10]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(140,13):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(42,6):
+  参见“setfont”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(140,5):
+  尝试匹配参数列表“(const char [10], int)”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(141,5): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [9]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(141,27):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(141,5):
+  尝试匹配参数列表“(int, int, const char [9])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(142,5): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [9]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(142,45):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(142,5):
+  尝试匹配参数列表“(GLuint, int, const char [9])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(143,5): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [28]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(143,46):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(143,5):
+  尝试匹配参数列表“(int, GLuint, const char [28])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(164,5): error C2664: “void setfont(char *,int)”: 无法将参数 1 从“const char [10]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(164,13):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(42,6):
+  参见“setfont”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(164,5):
+  尝试匹配参数列表“(const char [10], int)”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(167,9): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [4]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(167,37):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(167,9):
+  尝试匹配参数列表“(int, int, const char [4])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(168,9): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [6]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(168,37):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(168,9):
+  尝试匹配参数列表“(int, int, const char [6])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(169,9): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [6]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(169,37):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(169,9):
+  尝试匹配参数列表“(int, int, const char [6])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(173,9): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [5]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(173,31):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(173,9):
+  尝试匹配参数列表“(int, int, const char [5])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(174,9): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [2]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(174,32):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(174,9):
+  尝试匹配参数列表“(int, int, const char [2])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(175,9): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [2]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(175,32):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(175,9):
+  尝试匹配参数列表“(int, int, const char [2])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(176,9): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [2]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(176,32):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(176,9):
+  尝试匹配参数列表“(int, int, const char [2])”时
+  
+D:\programing\OpenGL\exp1\exp1\main.cpp(187,9): error C2664: “void drawstr(GLuint,GLuint,char *,...)”: 无法将参数 3 从“const char [60]”转换为“char *”
+  D:\programing\OpenGL\exp1\exp1\main.cpp(188,13):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  D:\programing\OpenGL\exp1\exp1\main.cpp(64,6):
+  参见“drawstr”的声明
+  D:\programing\OpenGL\exp1\exp1\main.cpp(187,9):
+  尝试匹配参数列表“(int, int, const char [60])”时
+  
