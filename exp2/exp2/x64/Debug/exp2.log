@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\programing\OpenGL\exp2\exp2\main.cpp(51,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(52,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(53,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(221,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(224,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(227,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(230,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(233,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(236,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\exp2\exp2\main.cpp(269,41): warning C4305: “=”: 从“double”到“float”截断
+D:\programing\OpenGL\exp2\exp2\main.cpp(270,43): warning C4305: “=”: 从“double”到“float”截断
+  exp2.vcxproj -> D:\programing\OpenGL\exp2\x64\Debug\exp2.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
